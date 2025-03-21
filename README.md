@@ -118,6 +118,7 @@ curl http://postgresql.localhost
 Debe retornar un mensaje HTML indicando que PostgreSQL está funcionando:
 ![curlpgres](https://github.com/user-attachments/assets/64d8c58e-6c2d-4326-a2e5-388e4dd53491)
 
+> **_Recomendación: en ocasiones hay que ejecutar el comando un par de veces_**
 
 ---
 
